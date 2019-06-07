@@ -1,2 +1,3 @@
 # Hello-World
-Just another repository
+Hi!Humans!
+I`m a student,i love learning!
